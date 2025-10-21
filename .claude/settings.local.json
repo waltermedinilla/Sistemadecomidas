@@ -4,7 +4,17 @@
       "WebSearch",
       "Bash(mkdir:*)",
       "Bash(tree:*)",
-      "Bash(awk:*)"
+      "Bash(awk:*)",
+      "Bash(node --version:*)",
+      "Bash(npm --version)",
+      "Bash(docker --version:*)",
+      "Bash(docker-compose:*)",
+      "Bash(psql:*)",
+      "Bash(redis-cli:*)",
+      "Bash(gh auth status:*)",
+      "Bash(npm install:*)",
+      "Bash(nest new:*)",
+      "Bash(git add:*)"
     ],
     "deny": [],
     "ask": []

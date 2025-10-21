@@ -51,8 +51,8 @@ git --version
 ### 1. Clonar el Repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/ProgramadeComidas.git
-cd ProgramadeComidas
+git clone https://github.com/tu-usuario/programadecomidas-claude.git
+cd programadecomidas-claude
 ```
 
 ### 2. Copiar Variables de Entorno
@@ -170,8 +170,8 @@ Password: Cashier123!
 ### 1. Clonar Repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/ProgramadeComidas.git
-cd ProgramadeComidas
+git clone https://github.com/tu-usuario/programadecomidas-claude.git
+cd programadecomidas-claude
 ```
 
 ### 2. Instalar PostgreSQL

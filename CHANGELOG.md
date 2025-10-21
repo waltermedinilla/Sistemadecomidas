@@ -164,5 +164,5 @@ Usamos [SemVer](http://semver.org/) para versionado.
 
 ---
 
-[Unreleased]: https://github.com/tu-usuario/ProgramadeComidas/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/tu-usuario/ProgramadeComidas/releases/tag/v1.0.0
+[Unreleased]: https://github.com/tu-usuario/programadecomidas-claude/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/tu-usuario/programadecomidas-claude/releases/tag/v1.0.0

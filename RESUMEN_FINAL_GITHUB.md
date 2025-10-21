@@ -13,7 +13,7 @@
 ### 1. 📁 Estructura del Proyecto Completa
 
 ```
-ProgramadeComidas/
+programadecomidas-claude/
 ├── backend/                    # 9 microservicios
 ├── frontend/                   # 5 aplicaciones web
 ├── mobile/                     # 2 apps React Native
@@ -297,7 +297,7 @@ Para crecer el negocio: múltiples restaurantes en una instalación
 ### 1. Inicializar Repositorio
 
 ```bash
-cd ProgramadeComidas
+cd programadecomidas-claude
 
 # Inicializar git
 git init

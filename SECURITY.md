@@ -23,7 +23,7 @@ Por favor **NO** crees un issue público de GitHub para vulnerabilidades de segu
 - Incluye toda la información posible (ver abajo)
 
 **Opción 2: GitHub Security Advisory**
-- Ve a: https://github.com/tu-usuario/ProgramadeComidas/security/advisories
+- Ve a: https://github.com/tu-usuario/programadecomidas-claude/security/advisories
 - Click en "New draft security advisory"
 - Completa el formulario
 
@@ -111,7 +111,7 @@ Por favor incluye la siguiente información en tu reporte:
 Actualmente no hay vulnerabilidades conocidas.
 
 Las vulnerabilidades pasadas y sus fixes se documentan en:
-- [Security Advisories](https://github.com/tu-usuario/ProgramadeComidas/security/advisories)
+- [Security Advisories](https://github.com/tu-usuario/programadecomidas-claude/security/advisories)
 - [CHANGELOG.md](./CHANGELOG.md)
 
 ## 🔐 Características de Seguridad

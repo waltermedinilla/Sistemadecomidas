@@ -15,7 +15,7 @@
 Se creó la estructura completa de carpetas del proyecto:
 
 ```
-ProgramadeComidas/
+programadecomidas-claude/
 ├── backend/              # Microservicios (9 servicios)
 ├── frontend/             # 5 aplicaciones web
 ├── mobile/               # 2 apps móviles

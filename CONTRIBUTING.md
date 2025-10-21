@@ -21,7 +21,7 @@ Este proyecto y todos los participantes están regidos por nuestro [Código de C
 Hay muchas formas de contribuir:
 
 ### 1. Reportar Bugs
-- Usa el [issue tracker](https://github.com/tu-usuario/ProgramadeComidas/issues)
+- Usa el [issue tracker](https://github.com/tu-usuario/programadecomidas-claude/issues)
 - Verifica que el bug no haya sido reportado antes
 - Incluye detalles de reproducción
 - Adjunta screenshots si aplica
@@ -49,11 +49,11 @@ Hay muchas formas de contribuir:
 
 ```bash
 # Fork el repositorio en GitHub, luego:
-git clone https://github.com/TU-USUARIO/ProgramadeComidas.git
-cd ProgramadeComidas
+git clone https://github.com/TU-USUARIO/programadecomidas-claude.git
+cd programadecomidas-claude
 
 # Agrega el upstream
-git remote add upstream https://github.com/USUARIO-ORIGINAL/ProgramadeComidas.git
+git remote add upstream https://github.com/USUARIO-ORIGINAL/programadecomidas-claude.git
 ```
 
 ### 2. Crear una Rama

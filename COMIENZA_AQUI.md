@@ -32,7 +32,7 @@ Guía paso a paso para subir a GitHub
 ## 📁 Estructura Rápida
 
 ```
-📂 ProgramadeComidas/
+📂 programadecomidas-claude/
 │
 ├── 📊 PROJECT_TRACKER.md        ⭐ USA ESTE para trackear progreso
 ├── 📖 README.md                 Vista general

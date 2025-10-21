@@ -174,7 +174,7 @@
 ## 📁 Estructura de Carpetas Creada
 
 ```
-ProgramadeComidas/
+programadecomidas-claude/
 │
 ├── README.md
 ├── LICENSE

@@ -107,7 +107,7 @@ Ver [documentación completa de arquitectura](./docs/arquitectura/ARQUITECTURA.m
 ## 📁 Estructura del Proyecto
 
 ```
-ProgramadeComidas/
+programadecomidas-claude/
 ├── backend/                    # Backend (Microservicios)
 │   ├── services/              # Servicios independientes
 │   │   ├── pedidos/          # Servicio de pedidos
@@ -240,7 +240,7 @@ Cada módulo tiene su propia documentación detallada en [./docs/modulos/](./doc
 ```bash
 # Clonar el repositorio
 git clone <repository-url>
-cd ProgramadeComidas
+cd programadecomidas-claude
 
 # Copiar variables de entorno
 cp .env.example .env
