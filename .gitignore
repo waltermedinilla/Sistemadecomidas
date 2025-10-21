@@ -1,0 +1,180 @@
+# ============================================
+# DEPENDENCIES
+# ============================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-store/
+
+# ============================================
+# ENVIRONMENT VARIABLES
+# ============================================
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+*.env
+
+# Permitir solo ejemplo
+!.env.example
+
+# ============================================
+# BUILD & DISTRIBUTION
+# ============================================
+dist/
+build/
+.next/
+out/
+.cache/
+*.tsbuildinfo
+
+# ============================================
+# LOGS
+# ============================================
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.npm/
+
+# ============================================
+# OS FILES
+# ============================================
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.swp
+*.swo
+*~
+
+# ============================================
+# IDE & EDITORS
+# ============================================
+.vscode/
+!.vscode/extensions.json
+!.vscode/settings.json.example
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.iml
+
+# ============================================
+# TESTING
+# ============================================
+coverage/
+.nyc_output/
+*.lcov
+.jest/
+
+# ============================================
+# UPLOADS & USER CONTENT
+# ============================================
+uploads/
+public/uploads/
+temp/
+tmp/
+
+# Permitir directorio pero ignorar contenido
+!uploads/.gitkeep
+
+# ============================================
+# DATABASE
+# ============================================
+*.sqlite
+*.sqlite3
+*.db
+
+# Backups
+*.sql.backup
+*.dump
+
+# ============================================
+# CERTIFICATES & KEYS
+# ============================================
+certs/
+*.pem
+*.key
+*.crt
+*.cer
+*.p12
+*.pfx
+
+# Permitir certificados de ejemplo
+!certs/.gitkeep
+
+# ============================================
+# DOCKER
+# ============================================
+docker-compose.override.yml
+
+# ============================================
+# MOBILE (React Native)
+# ============================================
+# Android
+mobile/*/android/app/build/
+mobile/*/android/.gradle/
+mobile/*/android/local.properties
+*.apk
+*.aab
+
+# iOS
+mobile/*/ios/Pods/
+mobile/*/ios/build/
+*.ipa
+*.xcworkspace
+
+# Expo
+.expo/
+.expo-shared/
+
+# ============================================
+# VARIOS
+# ============================================
+# Archivos temporales
+*.tmp
+*.temp
+*.bak
+*.old
+
+# Archivos comprimidos
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# Package managers
+.yarn/
+.pnp.*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Excepto si quieres commitear lockfiles (recomendado)
+# Descomentar la línea anterior si no quieres lockfiles
+
+# ============================================
+# DOCUMENTACIÓN GENERADA
+# ============================================
+docs/api-generated/
+storybook-static/
+
+# ============================================
+# MONITOREO Y ANÁLISIS
+# ============================================
+.sentry/
+newrelic_agent.log
+
+# ============================================
+# MISCELÁNEOS
+# ============================================
+.cache/
+.parcel-cache/
+.turbo/
+.vercel/
+.netlify/
